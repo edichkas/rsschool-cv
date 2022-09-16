@@ -9,8 +9,8 @@ I am working on my working life changes. I want to switch the current position f
 Billing and accounting system development and integration specialist, GSM products developer, IT hardware rent product owner, e-commerce specialist, payments collection system developer, VPN solutions developer, BI, ERP and CRM systems integrator, experienced in business development, new product development.
 Specialties: IT products development, Telco billing systems, programming (full stack: PHP/Laravel, React.Js, HTML5, SQL, MongoDB, GraphQL, REST API)
 
-**Programming languages** PHP, SQL
-**Tools** Jira, Git<br>
+**Programming languages:** PHP, SQL<br>
+**Tools:** Jira, Git
 ## Code examples
 [GitHub](https://github.com/edichkas/) 
 ## Experience
