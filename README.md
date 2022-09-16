@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School Repository for Git  Task
+https://edichkas.github.io/rsschool-cv/cv
